@@ -1,0 +1,16 @@
+{
+	"name" : "cctools",
+	"description": "A project which gives access to all inhouse built applications",
+	"version":"0.0.0",
+	"private":true,
+	"dependencies":{
+		"angular":"1.4.x",
+		"angular-bootstrap":"0.14.x",
+		"angular-route":"~1.4.x",
+		"underscore":"~1.8.3",		
+		"bootstrap":"~3.3.5"
+	},
+	"resolutions":{
+		"webcomponentsjs":"0.5.5"
+	}
+}
